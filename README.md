@@ -6,6 +6,12 @@
 O **AppArt** é um projeto acadêmico desenvolvido durante o período da pandemia de COVID-19, um tempo em que a distância social e o isolamento se tornaram realidades diárias. Com a necessidade de novas formas de conexão e expressão, especialmente em um momento de desafios tão significativos, surgiu a ideia de criar uma plataforma que pudesse unir artistas e amantes da arte, eliminando barreiras geográficas.
 
 Inspirado pela criatividade do povo brasileiro, o AppArt foi concebido não apenas como uma ferramenta para a compra e venda de arte, mas também como uma rede social e galeria digital, onde artistas de todo o Brasil podem divulgar suas obras, compartilhar suas criações e interagir com uma comunidade mais ampla.O AppArt busca promover a arte em todo o país, permitindo que artistas, mesmo em locais remotos, alcancem um público diversificado e apaixonado por arte.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05f0118c-11ca-484c-9682-d2d1b794832a" alt="Descrição da Imagem" width="1000"/>
+</p>
+
+  
 ## Vídeo Demonstrativo
 
 Assista ao vídeo abaixo para uma visão geral do AppArt e suas funcionalidades:
