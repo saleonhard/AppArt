@@ -1,7 +1,7 @@
-# AppART
+# AppArt
 
 ## Introdução
-O **AppART** é um projeto acadêmico desenvolvido durante o período da pandemia de COVID-19, um tempo em que a distância social e o isolamento se tornaram realidades diárias. Com a necessidade de novas formas de conexão e expressão, especialmente em um momento de desafios tão significativos, surgiu a ideia de criar uma plataforma que pudesse unir artistas e amantes da arte, eliminando barreiras geográficas.
+O **AppArt** é um projeto acadêmico desenvolvido durante o período da pandemia de COVID-19, um tempo em que a distância social e o isolamento se tornaram realidades diárias. Com a necessidade de novas formas de conexão e expressão, especialmente em um momento de desafios tão significativos, surgiu a ideia de criar uma plataforma que pudesse unir artistas e amantes da arte, eliminando barreiras geográficas.
 
 Inspirado pela criatividade do povo brasileiro, o AppART foi concebido não apenas como uma ferramenta para a compra e venda de arte, mas também como uma rede social e galeria digital, onde artistas de todo o Brasil podem divulgar suas obras, compartilhar suas criações e interagir com uma comunidade mais ampla.O AppART busca promover a arte em todo o país, permitindo que artistas, mesmo em locais remotos, alcancem um público diversificado e apaixonado por arte.
 ## Vídeo Demonstrativo
@@ -34,7 +34,7 @@ Assista ao vídeo abaixo para uma visão geral do AppART e suas funcionalidades:
 ## Instalação e Configuração
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/saleonhard/AppART.git
+   git clone https://github.com/saleonhard/AppArt.git
 2. **Abra o Projeto no Android Studio:**
 
    - Navegue até o diretório clonado e abra o projeto no Android Studio.
@@ -52,7 +52,7 @@ Assista ao vídeo abaixo para uma visão geral do AppART e suas funcionalidades:
 
 Você pode baixar o APK do AppART diretamente do repositório usando o link abaixo:
 
-[Baixar AppART APK](https://github.com/saleonhard/AppART/releases/download/v1.0/AppArt.apk)
+[Baixar AppART APK](https://github.com/saleonhard/AppArt/releases/download/v1.0/AppArt.apk)
 
 ## Uso do AppART
 
