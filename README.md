@@ -1,12 +1,14 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaleonhard%2FAppArt&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # AppArt
 
 ## Introdução
 O **AppArt** é um projeto acadêmico desenvolvido durante o período da pandemia de COVID-19, um tempo em que a distância social e o isolamento se tornaram realidades diárias. Com a necessidade de novas formas de conexão e expressão, especialmente em um momento de desafios tão significativos, surgiu a ideia de criar uma plataforma que pudesse unir artistas e amantes da arte, eliminando barreiras geográficas.
 
-Inspirado pela criatividade do povo brasileiro, o AppART foi concebido não apenas como uma ferramenta para a compra e venda de arte, mas também como uma rede social e galeria digital, onde artistas de todo o Brasil podem divulgar suas obras, compartilhar suas criações e interagir com uma comunidade mais ampla.O AppART busca promover a arte em todo o país, permitindo que artistas, mesmo em locais remotos, alcancem um público diversificado e apaixonado por arte.
+Inspirado pela criatividade do povo brasileiro, o AppArt foi concebido não apenas como uma ferramenta para a compra e venda de arte, mas também como uma rede social e galeria digital, onde artistas de todo o Brasil podem divulgar suas obras, compartilhar suas criações e interagir com uma comunidade mais ampla.O AppArt busca promover a arte em todo o país, permitindo que artistas, mesmo em locais remotos, alcancem um público diversificado e apaixonado por arte.
 ## Vídeo Demonstrativo
 
-Assista ao vídeo abaixo para uma visão geral do AppART e suas funcionalidades:
+Assista ao vídeo abaixo para uma visão geral do AppArt e suas funcionalidades:
 
 ## Funcionalidades Principais
 1. **Marketplace de Arte:**
@@ -22,7 +24,7 @@ Assista ao vídeo abaixo para uma visão geral do AppART e suas funcionalidades:
    - Facilita a disseminação e comercialização de arte em regiões onde o acesso a galerias físicas pode ser limitado.
 
 4. **Transações Financeiras Externas:**
-   - Na versão inicial do aplicativo, todas as transações financeiras serão realizadas fora do AppART.
+   - Na versão inicial do aplicativo, todas as transações financeiras serão realizadas fora do AppArt.
    - O aplicativo se foca em fornecer um ambiente seguro e confiável para que artistas e compradores possam se conectar e negociar.
 
 ## Tecnologias Utilizadas
@@ -50,11 +52,11 @@ Assista ao vídeo abaixo para uma visão geral do AppART e suas funcionalidades:
 
 ## Download do APK
 
-Você pode baixar o APK do AppART diretamente do repositório usando o link abaixo:
+Você pode baixar o APK do AppArt diretamente do repositório usando o link abaixo:
 
-[Baixar AppART APK](https://github.com/saleonhard/AppArt/releases/download/v1.0/AppArt.apk)
+[Baixar AppArt APK](https://github.com/saleonhard/AppArt/releases/v1.0/AppArt.apk)
 
-## Uso do AppART
+## Uso do AppArt
 
 ### Cadastro de Artistas:
 
@@ -74,7 +76,7 @@ Você pode baixar o APK do AppART diretamente do repositório usando o link abai
 
 ## Contribuições
 
-Contribuições para o AppART são bem-vindas! Se você tem sugestões, encontrou bugs ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir um pull request ou entrar em contato com os desenvolvedores.
+Contribuições para o AppArt são bem-vindas! Se você tem sugestões, encontrou bugs ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir um pull request ou entrar em contato com os desenvolvedores.
 
 
 ## Licença
@@ -90,4 +92,4 @@ Se você tiver alguma dúvida ou sugestão, entre em contato:
 
 ---
 
-O **AppART** é mais do que um aplicativo; é uma plataforma que celebra e promove a arte brasileira. Estamos entusiasmados em ajudar artistas de todas as regiões do Brasil a compartilhar suas criações com o mundo!
+O **AppArt** é mais do que um aplicativo; é uma plataforma que celebra e promove a arte brasileira. Estamos entusiasmados em ajudar artistas de todas as regiões do Brasil a compartilhar suas criações com o mundo!
