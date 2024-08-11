@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    android:elevation="5dp"
+    android:background="@drawable/layout_bg"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+   <!-- <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/ic_more"
+        android:layout_margin="15dp"
+        android:id="@+id/mais"/>-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!--<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imagem_perfil"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="5dp" />
+
+            <TextView
+                android:id="@+id/username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="5dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>-->
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:radius="15dp">
+
+            <ImageView
+                android:id="@+id/obra_imagem"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                app:layout_constraintDimensionRatio="1:1"
+                android:background="@drawable/layout_bg"
+                tools:ignore="MissingConstraints" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="0dp">
+
+
+            <TextView
+                android:id="@+id/obra_nome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:textStyle="bold" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+            <com.hendraanggrian.appcompat.widget.SocialTextView
+                android:id="@+id/valor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="5dp"
+                android:textSize="20dp"
+                android:textColor="@color/colorAccent"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/like"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginStart="100dp"
+                android:layout_marginEnd="10dp"
+                android:layout_toStartOf="@+id/num_de_likes"
+                android:src="@drawable/ic_aplaudir" />
+
+            <TextView
+                android:id="@+id/num_de_likes"
+                android:layout_width="11dp"
+                android:layout_height="25dp"
+                android:layout_marginEnd="14dp"
+                android:layout_toStartOf="@+id/comentario"
+                android:textAlignment="center"
+                android:textColor="@color/colorAccent"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/comentario"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginEnd="10dp"
+                android:layout_toStartOf="@+id/num_de_comentarios"
+                android:src="@drawable/ic_comentarios" />
+
+            <TextView
+                android:id="@+id/num_de_comentarios"
+                android:layout_width="11dp"
+                android:layout_height="25dp"
+                android:layout_marginEnd="13dp"
+                android:layout_toStartOf="@+id/save"
+                android:textColor="@color/colorAccent" />
+
+            <ImageView
+                android:id="@+id/save"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/ic_favorita" />
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

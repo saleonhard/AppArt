@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_direta"
+        android:icon="@drawable/ic_direta"
+        android:title=""/>
+
+    <item android:id="@+id/nav_leilao"
+        android:icon="@drawable/ic_leilao"
+        android:title=""/>
+</menu>
