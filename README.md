@@ -18,6 +18,8 @@ Inspirado pela criatividade do povo brasileiro, o AppArt foi concebido não apen
 
 Assista ao vídeo abaixo para uma visão geral do AppArt e suas funcionalidades:
 
+https://github.com/user-attachments/assets/f5f0ed7b-9166-4430-97d2-2e8bd499769f
+
 ## Funcionalidades Principais
 1. **Marketplace de Arte:**
    - Permite que artistas vendam suas obras diretamente ou através de leilões virtuais.
