@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/f5f0ed7b-9166-4430-97d2-2e8bd499769f
 
 Você pode baixar o APK do AppArt diretamente do repositório usando o link abaixo:
 
-[Baixar AppArt APK](https://github.com/saleonhard/AppArt/releases/v1.0/AppArt.apk)
+[Baixar AppArt APK](https://github.com/saleonhard/AppArt/tree/main/releases/v1.0/AppArt.apk)
 
 ## Uso do AppArt
 
