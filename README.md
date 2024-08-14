@@ -86,8 +86,7 @@ Você pode baixar o APK do AppArt diretamente do repositório usando o link abai
 
 ## Contribuições
 
-Contribuições para o AppArt são bem-vindas! Se você tem sugestões, encontrou bugs ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir um pull request ou entrar em contato com os desenvolvedores.
-
+Contribuições para o AppArt são bem-vindas! Se você tem sugestões, encontrou bugs ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir um pull request ou entrar em contato.
 
 ## Licença
 
@@ -101,5 +100,3 @@ Se você tiver alguma dúvida ou sugestão, entre em contato:
 - **LinkedIn:** [LinkedIn - Leonardo Aquino](https://linkedin.com/in/aquinoleonardo/)
 
 ---
-
-O **AppArt** é mais do que um aplicativo; é uma plataforma que celebra e promove a arte brasileira. Estamos entusiasmados em ajudar artistas de todas as regiões do Brasil a compartilhar suas criações com o mundo!
